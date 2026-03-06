@@ -1,0 +1,11 @@
+["apex_stash"] = {
+    name = "apex_stash",
+    label = "Stash Device",
+    weight = 1000,
+    type = "item",
+    image = "apex_stash.png",
+    unique = true,
+    useable = true,
+    shouldClose = true,
+    description = "A secure portable stash device"
+},
